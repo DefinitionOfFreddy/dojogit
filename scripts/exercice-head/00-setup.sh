@@ -22,3 +22,4 @@ echo "around the world" >> daftpunklyrics.txt; git add  daftpunklyrics.txt; git 
 echo "around the world" >> daftpunklyrics.txt; git add  daftpunklyrics.txt; git commit -m "wip"
 echo "FINI" >> daftpunklyrics.txt; git add  daftpunklyrics.txt; git commit -m "là c'est bon ça marche"
 
+git push
